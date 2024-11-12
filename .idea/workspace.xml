@@ -5,16 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25522bb2-4332-436a-bfa8-6c9de2f0b5c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Darbuotojas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Darbuotojas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StartGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StartGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/enums/HasSelectedProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/enums/HasSelectedProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/enums/WeekDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/enums/WeekDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fxControllers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fxControllers/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fxControllers/WeekDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fxControllers/WeekDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hibernateController/GenericHibernate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hibernateController/GenericHibernate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/utils/DataPopulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/DataPopulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/utils/DataTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/DataTransfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/utils/WeekDayConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/WeekDayConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/utils/WeekDayHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/WeekDayHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/KD2_TEST/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/KD2_TEST/main.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/KD2_TEST/weekdays.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/KD2_TEST/weekdays.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rokas0504"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rokas0504/KD2_TEST.git",
+    "accountId": "13e3dbd4-33e4-4c50-bc7c-b65e59e7847a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -26,10 +62,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.StartGUI.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -49,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731411074988</updated>
-      <workItem from="1731411076563" duration="2000" />
+      <workItem from="1731411076563" duration="11358000" />
     </task>
     <servers />
   </component>

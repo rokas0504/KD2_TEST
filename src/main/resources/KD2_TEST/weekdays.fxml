@@ -6,9 +6,10 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane xmlns="http://javafx.com/javafx"
-            xmlns:fx="http://javafx.com/fxml"
-            fx:controller="$CONTROLLER_NAME$"
-            prefHeight="400.0" prefWidth="600.0" >
-
+<AnchorPane xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="org.example.fxControllers.WeekDays" prefHeight="400.0" prefWidth="600.0">
+    <children>
+        <ListView fx:id="weekDayList" layoutX="14.0" layoutY="43.0" prefHeight="373.0" prefWidth="255.0" />
+        <Button layoutX="88.0" layoutY="431.0" mnemonicParsing="false" onAction="#sendInfo" text="OK" />
+        <Button layoutX="139.0" layoutY="431.0" mnemonicParsing="false" onAction="#exitWeekDayChooser" text="Close" />
+    </children>
 </AnchorPane>
